@@ -119,6 +119,6 @@ btnYes.addEventListener("click", function() {
 
 // Adicionar evento de clique para o botão "não"
 btnNo.addEventListener("click", function() {
-    alert("Você nem tá maluca de não aceitar, volte lá e clique no sim! :/");
+    alert("Você nem tá maluco de não aceitar, volte lá e clique no sim! :/");
 });
 
